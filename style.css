@@ -4,6 +4,10 @@ body {
     background-color: #f9f9f9;
     width: 980px;
     margin: 0 auto;
+    color: rgb(10, 0, 255);
+    text-shadow: 1px 1px 4px #464646;
+    background: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1612457019_161-p-fon-serii-portretnii-223.jpg") no-repeat;
+    background-size: 100vw 100vh;
 }
 
 h1 {
@@ -12,7 +16,16 @@ h1 {
     margin-bottom: 0;
 }
 
+h1, h2 {
+    font-family: serif;
+}
+
 main > h2 {
     text-align: center;
     font-size: 25px;
+}
+
+.author-foto {
+    max-width: 120px;
+    box-shadow: 0 51px 101px gray, -5px -10px 20px pink;
 }
