@@ -4,7 +4,7 @@ body {
     background-color: #f9f9f9;
     width: 980px;
     margin: 0 auto;
-    color: rgb(10, 0, 255);
+    color: rgba(0, 255, 245, 0.9);
     text-shadow: 1px 1px 4px #464646;
     background: url("/foto/gradient.jpg") no-repeat;
     background-size: 100vw 100vh;
