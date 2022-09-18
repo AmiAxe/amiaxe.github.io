@@ -34,6 +34,6 @@ main > h2 {
 
 .author-foto {
     max-width: 120px;
-    box-shadow: 0 51px 101px gray, -5px -10px 20px pink;
+    box-shadow: 0 50px 100px gray, -5px -10px 20px pink;
     display: flex;
 }
